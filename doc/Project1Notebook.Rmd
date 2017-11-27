@@ -4,12 +4,12 @@ date: "9/9/2017"
 output: pdf_document
 ---
 
-# Analysis of the Inaugural Speeches of the American presidents
+# American Presidents' Inaugural Speeches
 
-## insert image here
+![President Trump during his inaugural speech](fig/trump-inauguration.jpg)
 
 ## Introduction
-In this notebook, we will perform different analyses of the inaugural speeches of all the previous presidents of the United States of America. Different aspects of the speeches will be analysed, such as main basic differences between democrats and republicans, how the general sentiment evolvs over time, differences between speeches of first time elected and reelected presidents, and so on.
+In this notebook, we will perform different analyses of the inaugural speeches of all the previous presidents of the United States of America. Different aspects of the speeches will be analysed, such as main basic differences between democrats and republicans, how the general sentiment evolve over time, differences between speeches of first time elected and reelected presidents, and so on.
 
 ## Analysis
 

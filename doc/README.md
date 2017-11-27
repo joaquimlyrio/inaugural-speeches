@@ -1,4 +1,4 @@
-# Project: 
-### Doc folder
+# Project: What did the presidents say at their inauguation?
+### doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+This directory the R-markdown file 'Project1Notebook.Rmd' and the knitted PDF 'Project1Notebook.Rmd'.

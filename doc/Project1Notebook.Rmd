@@ -1,10 +1,9 @@
 ---
+title: "American Presidents' Inaugural Speeches"
 author: "Joaquim Lyrio"
 date: "9/9/2017"
 output: pdf_document
 ---
-
-# American Presidents' Inaugural Speeches
 
 ![President Trump during his inaugural speech](fig/trump-inauguration.jpg)
 

@@ -1,5 +1,5 @@
 # Fall 2017
-# Project 1: What did the presidents say at their inauguation?
+# Project: What did the presidents say at their inauguation?
 
 ![image](./doc/fig/trump-inauguration.jpg)
 
